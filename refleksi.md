@@ -1,0 +1,7 @@
+# Refleksi Pembelajaran
+
+Menurut saya, platform mobile merupakan platform yang menarik untuk dipelajari karena banyak digunakan dalam kehidupan sehari-hari. Aplikasi mobile memudahkan pengguna untuk melakukan berbagai aktivitas melalui smartphone, seperti berkomunikasi, mencari informasi, belajar, dan menggunakan layanan transportasi. Selain itu, aplikasi mobile dapat memanfaatkan fitur perangkat seperti kamera, GPS, dan notifikasi sehingga memberikan pengalaman yang lebih praktis bagi pengguna.
+
+Tantangan terbesar saat melakukan setup environment adalah memastikan semua aplikasi dan tools pengembangan sudah terpasang serta dapat berjalan dengan baik. Selain itu, saya perlu memahami penggunaan terminal, perintah Git, dan cara menghubungkan project dengan repository GitHub. Pada awalnya, langkah-langkah tersebut terasa cukup membingungkan karena terdapat beberapa perintah yang harus dijalankan dengan benar.
+
+Untuk mengatasi tantangan tersebut, saya akan mempelajari kembali fungsi setiap tools, mengikuti dokumentasi resmi, dan berlatih menggunakan terminal secara bertahap. Saya juga akan membiasakan diri menggunakan Git untuk menyimpan perubahan project dan mengunggahnya ke GitHub. Dengan latihan yang konsisten, saya berharap dapat lebih memahami proses pengembangan aplikasi dan mampu membuat project sederhana secara mandiri.
